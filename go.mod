@@ -1,4 +1,4 @@
-module truenas-monitor
+module github.com/hyunpurple/truenas-monitor
 
 go 1.20
 

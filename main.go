@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"truenas-monitor/internal/monitor"
+
+	"github.com/hyunpurple/truenas-monitor/internal/monitor"
 )
 
 func main() {

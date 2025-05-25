@@ -1,6 +1,7 @@
 # TrueNAS Monitor
 
 TrueNAS Monitor 是一个用于获取 TrueNAS 系统健康信息的工具。
+目前项目还在完善中
 
 ## 功能
 - 获取磁盘健康信息
